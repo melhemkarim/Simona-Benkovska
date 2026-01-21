@@ -162,7 +162,7 @@ export default function Page() {
           </a>
 
           <a
-            href="https://www.instagram.com/nasser_raad.x/"
+            href="https://www.instagram.com/s_bendzi?igsh=NmhweDQwODdrcG02"
             className="flex items-center gap-2 text-sm tracking-wide hover:opacity-60"
           >
             <Instagram className="w-4 h-4" />
